@@ -2,8 +2,7 @@
 
 ![Resultado final do projeto](public/assets/preview.png)
 
-<h4 align="center"><a href="https://video-plataform.vercel.app/">Click to visit website</a></h4>
-<h4 align="center"><a href="https://www.figma.com/file/7Diez524svfSGk7JPqsxOv/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1">Click to visit figma</a></h4>
+<h4 align="center"><a href="https://www.figma.com/file/0WLgAB4bsZBJnTCS1GvmHv/Rocket-Help-Ignite-Lab-Community">Clique para visitar o figma</a></h4>
 
 ---
 
