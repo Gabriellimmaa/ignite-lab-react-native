@@ -1,6 +1,8 @@
 # 💻 Ignite Lab - React Native
 
-![Resultado final do projeto](public/assets/preview.png)
+<h1 align="center">
+  <img src="public/assets/preview.png">
+</h1>
 
 <h4 align="center"><a href="https://www.figma.com/file/0WLgAB4bsZBJnTCS1GvmHv/Rocket-Help-Ignite-Lab-Community">Clique para visitar o figma</a></h4>
 
